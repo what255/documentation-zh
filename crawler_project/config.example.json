@@ -1,0 +1,12 @@
+{
+  "base_url": "https://2024sms.com/",
+  "login_url": "https://2024sms.com/login",
+  "username": "async01",
+  "password": "wzb2026966",
+  "username_field": "username",
+  "password_field": "password",
+  "pages": [
+    "/user",
+    "/message/list"
+  ]
+}
